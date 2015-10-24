@@ -34,3 +34,7 @@ reactive-var
 reactive-dict
 aldeed:collection2
 tracker
+dburles:collection-helpers
+alanning:roles
+fortawesome:fontawesome
+sach:flow-db-admin
